@@ -1,0 +1,26 @@
+
+/home/runner/work/exp-orthographic-to-isometric-view-nitk/exp-orthographic-to-isometric-view-nitk/experiment/simulation/js/sample.js
+    2:10  warning  'navNext' is defined but never used  no-unused-vars
+   28:10  warning  'hhhh' is defined but never used     no-unused-vars
+   44:10  warning  'ha' is defined but never used       no-unused-vars
+   57:10  warning  'v' is defined but never used        no-unused-vars
+  112:10  warning  'a' is defined but never used        no-unused-vars
+  140:10  warning  'b11' is defined but never used      no-unused-vars
+  154:10  warning  'b2' is defined but never used       no-unused-vars
+  169:10  warning  'b1' is defined but never used       no-unused-vars
+  182:10  warning  'b22' is defined but never used      no-unused-vars
+  195:10  warning  'b' is defined but never used        no-unused-vars
+  218:10  warning  'bbb' is defined but never used      no-unused-vars
+  244:10  warning  'bb' is defined but never used       no-unused-vars
+
+/home/runner/work/exp-orthographic-to-isometric-view-nitk/exp-orthographic-to-isometric-view-nitk/experiment/simulation/js/sample1.js
+    3:10  warning  'navNext' is defined but never used  no-unused-vars
+  193:10  warning  'a' is defined but never used        no-unused-vars
+  247:10  warning  'b' is defined but never used        no-unused-vars
+  333:10  warning  'c' is defined but never used        no-unused-vars
+  374:10  warning  'd' is defined but never used        no-unused-vars
+  414:10  warning  'e' is defined but never used        no-unused-vars
+  471:10  warning  'f' is defined but never used        no-unused-vars
+
+✖ 19 problems (0 errors, 19 warnings)
+

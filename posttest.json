@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Identify the top view of the given projection<br><img src='./images/image6.png' />",
+      "answers": {
+        "a": "<br><img src='./images/image11.png' />",
+        "b": "<img src='./images/image5.png' />",
+        "c": "<img src='./images/image18.png' />",
+        "d": "<img src='./images/image12.png' />"
+      },
+      "explanations": {
+        "a": " ",
+        "b": " ",
+        "c": " ",
+        "d": " "
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Identify the side view of the given projection<br><img src='./images/image6.png' />",
+      "answers": {
+        "a": "<br><img src='./images/image11.png' />",
+        "b": "<img src='./images/image5.png' />",
+        "c": "<img src='./images/image18.png' />",
+        "d": "<img src='./images/image12.png' />"
+      },
+      "explanations": {
+        "a": " ",
+        "b": " ",
+        "c": " ",
+        "d": " "
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Identify the side view of the given projection<br><img src='./images/image2.png' />",
+      "answers": {
+        "a": "<br><img src='./images/image14.png' />",
+        "b": "<img src='./images/image10.png' />",
+        "c": "<img src='./images/image1.png' />",
+        "d": "<img src='./images/image7.png' />"
+      },
+      "explanations": {
+        "a": " ",
+        "b": " ",
+        "c": " ",
+        "d": " "
+      },
+      "correctAnswer": "c",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "The scale which is used in the isometric drawing is known as_____________",
+      "answers": {
+        "a": "Simple scale",
+        "b": "Reducing scale",
+        "c": "Enlarged scale",
+        "d": "Isometric scale"
+      },
+      "explanations": {
+        "a": " ",
+        "b": " ",
+        "c": " ",
+        "d": " "
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In preparing an isometric scale, the true or actual scale is drawn at ____ to the horizontal",
+      "answers": {
+        "a": "15°",
+        "b": "30°",
+        "c": "45°",
+        "d": "60°"
+      },
+      "explanations": {
+        "a": " ",
+        "b": " ",
+        "c": " ",
+        "d": " "
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}

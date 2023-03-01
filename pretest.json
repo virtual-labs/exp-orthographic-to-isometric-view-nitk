@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "If the isometric projection of an object is drawn with true length the shape would be the same and the size is how much larger than the actual isometric projection?",
+      "answers": {
+        "a": "25%",
+        "b": "29.5%",
+        "c": "22.5%",
+        "d": "33.3%"
+      },
+      "explanations": {
+        "a": " ",
+        "b": " ",
+        "c": " ",
+        "d": " "
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "If an isometric projection is drawn with true measurements but not with isometric scale then drawing are called",
+      "answers": {
+        "a": "Isometric projection",
+        "b": "Isometric view",
+        "c": "Isometric perception",
+        "d": "Orthographic view"
+      },
+      "explanations": {
+        "a": " ",
+        "b": " ",
+        "c": " ",
+        "d": " "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If isometric drawing is made use of isometric scale then drawing is called",
+      "answers": {
+        "a": "Isometric projection",
+        "b": "Isometric view",
+        "c": "Isometric perception",
+        "d": "Orthographic view"
+      },
+      "explanations": {
+        "a": " ",
+        "b": " ",
+        "c": " ",
+        "d": " "
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Identify the front view of the given projection <img src='./images/image6.png' />",
+      "answers": {
+        "a": "<img src='./images/image11.png' />",
+        "b": "<img src='./images/image5.png' />",
+        "c": "<img src='./images/image8.png' />",
+        "d": "<img src='./images/image12.png' />"
+      },
+      "explanations": {
+        "a": " ",
+        "b": " ",
+        "c": " ",
+        "d": " "
+      },
+      "correctAnswer": "a",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Identify the top view of the given projection <img src='./images/image3.png' />",
+      "answers": {
+        "a": "<img src='./images/image4.png' />",
+        "b": "<img src='./images/image20.png' />",
+        "c": "<img src='./images/image17.png' />",
+        "d": "<img src='./images/image18.png' />"
+      },
+      "explanations": {
+        "a": " ",
+        "b": " ",
+        "c": " ",
+        "d": " "
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    }
+  ]
+}
