@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Identify the top view of the given projection<br><img src='./images/image6.png' />",
+      "answers": {
+        "a": "<br><img src='./images/image11.png' />",
+        "b": "<img src='./images/image5.png' />",
+        "c": "<img src='./images/image18.png' />",
+        "d": "<img src='./images/image12.png' />"
+      },
+      "explanations": {
+        "a": "The right answer is (d).  ",
+        "b": "The right answer is (d). ",
+        "c": "The right answer is (d). ",
+        "d": "Correct, the right answer is (d). "
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Identify the side view of the given projection<br><img src='./images/image6.png' />",
+      "answers": {
+        "a": "<br><img src='./images/image11.png' />",
+        "b": "<img src='./images/image5.png' />",
+        "c": "<img src='./images/image18.png' />",
+        "d": "<img src='./images/image12.png' />"
+      },
+      "explanations": {
+        "a": "The right answer is (b). ",
+        "b": "Correct, the right answer is (b). ",
+        "c": "The right answer is (b). ",
+        "d": "The right answer is (b). "
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Identify the side view of the given projection<br><img src='./images/image2.png' />",
+      "answers": {
+        "a": "<br><img src='./images/image14.png' />",
+        "b": "<img src='./images/image10.png' />",
+        "c": "<img src='./images/image1.png' />",
+        "d": "<img src='./images/image7.png' />"
+      },
+      "explanations": {
+        "a": "The right answer is (c). ",
+        "b": "The right answer is (c). ",
+        "c": "Correct, the right answer is (c). ",
+        "d": "The right answer is (c). "
+      },
+      "correctAnswer": "c",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "The scale which is used in the isometric drawing is known as_____________",
+      "answers": {
+        "a": "Simple scale",
+        "b": "Reducing scale",
+        "c": "Enlarged scale",
+        "d": "Isometric scale"
+      },
+      "explanations": {
+        "a": "The right answer is (d). A simple scale is a tool used to measure a object's length or draw a line with perfect length. ",
+        "b": "The right answer is (d). In engineering drawing, a reducing scale is used when the actual dimensions of an object are too large to fit comfortably on the drawing sheet.",
+        "c": "The right answer is (d). An enlarging scale is used in engineering drawing when the actual dimensions of an object are too small to be comfortably drawn at their true size on the drawing sheet. ",
+        "d": "Correct, the right answer is (d). The isometric scale allows us to convert actual dimensions of an object into isometric dimensions. When drawing an isometric projection, all distances are reduced to 2/3 of their true size, or approximately 80%."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In preparing an isometric scale, the true or actual scale is drawn at ____ to the horizontal",
+      "answers": {
+        "a": "15°",
+        "b": "30°",
+        "c": "45°",
+        "d": "60°"
+      },
+      "explanations": {
+        "a": "The right answer is (c). ",
+        "b": "The right answer is (c). ",
+        "c": "Correct, the right answer is (c). ",
+        "d": "The right answer is (c). "
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "If the isometric projection of an object is drawn with true length the shape would be the same and the size is how much larger than the actual isometric projection?",
+      "answers": {
+        "a": "25%",
+        "b": "29.5%",
+        "c": "22.5%",
+        "d": "33.3%"
+      },
+      "explanations": {
+        "a": "The right answer is (c).  If the foreshortening of the isometric lines in an isometric projection is disregarded and instead, the true lengths are marked, the view obtained will be exactly of the same shape but larger in proportion than that obtained by the use of the isometric scale. ",
+        "b": "The right answer is (c).  If the foreshortening of the isometric lines in an isometric projection is disregarded and instead, the true lengths are marked, the view obtained will be exactly of the same shape but larger in proportion than that obtained by the use of the isometric scale. ",
+        "c": "Correct, the right answer is (c).  If the foreshortening of the isometric lines in an isometric projection is disregarded and instead, the true lengths are marked, the view obtained will be exactly of the same shape but larger in proportion than that obtained by the use of the isometric scale. ",
+        "d": "The right answer is (c).  If the foreshortening of the isometric lines in an isometric projection is disregarded and instead, the true lengths are marked, the view obtained will be exactly of the same shape but larger in proportion than that obtained by the use of the isometric scale. "
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "If an isometric projection is drawn with true measurements but not with isometric scale then drawing are called",
+      "answers": {
+        "a": "Isometric projection",
+        "b": "Isometric view",
+        "c": "Isometric perception",
+        "d": "Orthographic view"
+      },
+      "explanations": {
+        "a": "The right answer is (c). Isometric projection is a fundamental technique used in engineering drawing to represent three-dimensional objects in a two-dimensional space.",
+        "b": "Correct, the right answer is (b). Due to the ease of construction and the advantage of measuring the dimensions directly from the drawing, it has become a general practice to use the true scale instead of the isometric scale.",
+        "c": "The right answer is (c). Isometric perception in engineering drawing refers to the visual representation of three-dimensional objects using isometric projection. ",
+        "d": "The right answer is (c). Geometrical figures exist in two dimensions, so they can be accurately drawn on a sheet of paper. However, solids are three-dimensional objects, making it impossible to illustrate them in their true shape on paper. Orthographic projection solves this problem by allowing us to represent solids pictorially while maintaining their true shapes and sizes."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If isometric drawing is made use of isometric scale then drawing is called",
+      "answers": {
+        "a": "Isometric projection",
+        "b": "Isometric view",
+        "c": "Isometric perception",
+        "d": "Orthographic view"
+      },
+      "explanations": {
+        "a": "Correct, the right answer is (a). To avoid confusion, the view drawn with the true scale is called isometric drawing or isometric view, while that drawn with the use of isometric scale is called isometric projection. ",
+        "b": "The right answer is (a). If an isometric projection is drawn with true measurements but not with isometric scale then drawing are called Isometric view. ",
+        "c": "The right answer is (a). Isometric perception in engineering drawing refers to the visual representation of three-dimensional objects using isometric projection. ",
+        "d": "The right answer is (a). Geometrical figures exist in two dimensions, so they can be accurately drawn on a sheet of paper. However, solids are three-dimensional objects, making it impossible to illustrate them in their true shape on paper. Orthographic projection solves this problem by allowing us to represent solids pictorially while maintaining their true shapes and sizes."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Identify the front view of the given projection <img src='./images/image6.png' />",
+      "answers": {
+        "a": "<img src='./images/image11.png' />",
+        "b": "<img src='./images/image5.png' />",
+        "c": "<img src='./images/image8.png' />",
+        "d": "<img src='./images/image12.png' />"
+      },
+      "explanations": {
+        "a": "Correct, the right answer is (a).",
+        "b": "The right answer is (a). ",
+        "c": "The right answer is (a). ",
+        "d": "The right answer is (a). "
+      },
+      "correctAnswer": "a",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Identify the top view of the given projection <img src='./images/image3.png' />",
+      "answers": {
+        "a": "<img src='./images/image4.png' />",
+        "b": "<img src='./images/image20.png' />",
+        "c": "<img src='./images/imgg17.png' />",
+        "d": "<img src='./images/imgg18.png' />"
+      },
+      "explanations": {
+        "a": "The right answer is (c).  ",
+        "b": "The right answer is (c). ",
+        "c": "The right answer is (c). ",
+        "d": "Correct, the right answer is (c). "
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    }
+  ]
+}
